@@ -1,0 +1,32 @@
+body, .page{
+    background: #5d5c5d;
+    color: #f4f4f4;
+}
+.main-table, .footer, .formtab{
+    color: #f4f4f4;
+}
+.formtab:hover{
+    box-shadow: 0 0 5px 2px lightsalmon;
+    z-index: 99;
+}
+.header{
+    color: #f4f4f4;
+    background: #373737;
+}
+button {
+    border: 2px solid;
+    border-radius: 5px;
+    transition: 0.2s;
+    font-size: 16px;
+    margin: 2%;
+    padding: 2% 7%;
+    background: #5d5c5d;
+    color: #f4f4f4;
+
+}
+button:hover {
+    box-shadow: 0 0 5px 2px lightsalmon;
+ }
+button:active {
+    box-shadow: 0 0 5px 2px lightsalmon;
+}

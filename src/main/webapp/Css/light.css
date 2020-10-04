@@ -1,0 +1,30 @@
+body, .page{
+    background: #f6f6f5;
+    color: #373737;
+}
+.main-table{
+    color: #373737;
+}
+.formtab{
+    background: #b1d4e5;
+    color: #373737;
+}
+.formtab:hover{
+    box-shadow: 0 0 5px 2px #3399cc;
+    z-index: 99;
+}
+.header, .footer{
+    color: #f4f4f4;
+    background: #3399cc;
+}
+button {
+    background: #f6f6f5;
+    color: #5d5c5d;
+
+}
+button:hover {
+    box-shadow: 0 0 5px 2px #b1d4e5;
+}
+button:active {
+    box-shadow: 0 0 5px 2px #b1d4e5;
+}
